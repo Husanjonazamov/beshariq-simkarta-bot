@@ -18,7 +18,7 @@ BACK = ReplyKeyboardMarkup(
 MENU_BUTTON = ReplyKeyboardMarkup(
     keyboard=[
         [
-            KeyboardButton(text="📱 Raqam tanlash", web_app=WebAppInfo(url='https://8f32-188-113-242-228.ngrok-free.app/')),
+            KeyboardButton(text="📱 Raqam tanlash", web_app=WebAppInfo(url='https://beshsim.seezntv.uz/')),
         ],
     ], resize_keyboard=True
 )
