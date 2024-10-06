@@ -21,17 +21,3 @@ CONTACT_MESSAGE = """
 
 
 
-
-def create_number_info(selected_number):
-    """
-    Tanlangan raqam haqidagi ma'lumotlarni formatlaydi.
-    
-    :param selected_number: Tanlangan raqam ma'lumotlari
-    :return: Raqam haqida formatlangan xabar
-    """
-    number_info = (
-        f"📱 **Nomer:** {selected_number['number']}\n"
-        f"💵 **Narxi:** {'bepul' if selected_number['price'] == 0 else f'{selected_number['price']} so\'m'}\n"
-        f"🔖 **Chegirma:** {'yo\'q' if selected_number['discount'] == 0 else f'{selected_number['discount']}%'}\n")
-    
-    return number_info
