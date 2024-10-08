@@ -15,7 +15,7 @@ Sizga yordam bera olishim uchun sizning savollaringizni kutaman! 🤖
 CONTACT_MESSAGE = """
 <b>
 📲 Telegram: @Bakhodir_3123
-📞 Telefon: +998 94 915 92 68
+📞 Telefon: +998 90 627 31 43
 </b>
 """
 
